@@ -1,5 +1,5 @@
 ### Hi I'm Vic👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volleyball26&count_private=true&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim&count_private=true&show_icons=true&theme=synthwave)
 
 
 <!--
